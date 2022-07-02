@@ -101,19 +101,6 @@ behaviors {
                                    >;
                           };
 
-                 passw_layer {
-// -----------------------------------------------------------------------------------------
-// |     |     |     |     |      |     |     |     |     |     |
-// |     |     |     |     |      |     |     |     |     |     |
-// |     |     |     |     |      |     |     |     |     |     |
-//       |     |     |            |           |     |     |
-//                        bindings = <
-//   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
-//   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
-//   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
-//   &none    &none    &none    &none      &none      &trans
-//                                   >;
-//                            };
 
 
                 nav_layer {
