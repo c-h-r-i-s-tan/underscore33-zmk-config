@@ -80,8 +80,8 @@ behaviors {
 // |     |     |     |     |      |     |     |     |     |     |
 //       |     |     |            |           |     |     |
                         bindings = <
-   &kp EXCL  &kp AT    &kp HASH  &kp DLLR    &kp PRCNT   &kp CARET  &kp AMPS  &kp ASTRK &kp DEL   &kp BSPC
-   &kp TILDE &kp LBRC  &kp LBKT  &kp LPAR    &kp LT      &kp RT     &kp RPAR  &kp RBKT  &kp RBRC  &kp PIPE
+   &kp EXCL  &kp AT    &kp HASH  &kp DOLLAR  &kp PRCNT   &kp CARET  &kp AMPS  &kp STAR  &kp DEL   &kp BSPC
+   &kp TILDE &kp LBRC  &kp LBKT  &kp LPAR    &kp LT      &kp GT     &kp RPAR  &kp RBKT  &kp RBRC  &kp PIPE
    &kp GRAVE &kp none  &kp none  &kp none    &kp SEMI    &kp COLON  &kp none  &kp none  &kp none  &kp BSLH
    &none     &kp TAB                         &mo 4                  &trans              &kp CAPS  &none
                                    >;
