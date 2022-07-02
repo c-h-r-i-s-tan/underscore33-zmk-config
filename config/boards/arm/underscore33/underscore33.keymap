@@ -107,13 +107,13 @@ behaviors {
 // |     |     |     |     |      |     |     |     |     |     |
 // |     |     |     |     |      |     |     |     |     |     |
 //       |     |     |            |           |     |     |
-//                        bindings = <
-//   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
-//   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
-//   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
-//   &none  &none                &none  &none                &none  &trans
-//                                   >;
-//                            };
+                        bindings = <
+   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
+   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
+   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
+   &none  &none                &none  &none                &none  &trans
+                                   >;
+                            };
 
                 nav_layer {
 // -----------------------------------------------------------------------------------------
